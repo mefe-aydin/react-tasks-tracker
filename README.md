@@ -1,3 +1,2 @@
 # react-tasks-tracker
-This project is a simple task tarcking project.
-The project was developed using javascript in the react library.
+This is a React version of the vanilla JS Expense Tracker. It uses functional components with hooks and the context API
